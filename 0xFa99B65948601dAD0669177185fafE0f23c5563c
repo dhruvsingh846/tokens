@@ -1,0 +1,11 @@
+{
+ "name": "Tellar USD",
+ "website": "https://tellarusd.com/",
+ "description": "Tellar is a visionary project committed to revolutionizing the world of finance through blockchain technology. With a mission to provide stability, security, and innovation, Tellar aims to redefine the digital financial ecosystem and empower individuals worldwide",
+ "explorer": "https://bscscan.com/token/0xFa99B65948601dAD0669177185fafE0f23c5563c",
+ "type": "BEP20",
+ "symbol": "USDT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xFa99B65948601dAD0669177185fafE0f23c5563c"
+{
